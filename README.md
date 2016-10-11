@@ -1,2 +1,3 @@
 # BYR-BBS-Alfred-workflow
-Top 10
+
+![BYR-BBS-Alfred-workflow](screenshot/screenshot.png "screenshot")
